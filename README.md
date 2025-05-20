@@ -57,3 +57,8 @@
      * thread.cpp/h：线程处理
    - main.cpp：程序入口
    - mainwindow.ui：界面设计文件
+
+  5. 项目ui界面展示：
+
+     ![image](https://github.com/user-attachments/assets/9293bb08-76fc-4223-90ae-6f67ff6c7738)
+
